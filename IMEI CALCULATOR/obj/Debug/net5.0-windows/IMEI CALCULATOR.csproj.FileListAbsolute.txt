@@ -1,0 +1,20 @@
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.exe
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.deps.json
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.runtimeconfig.json
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.dll
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\ref\IMEI CALCULATOR.dll
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\IMEI CALCULATOR.pdb
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\bin\Debug\net5.0-windows\MetroSet UI.dll
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI_CALCULATOR.ImeiCal.resources
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI_CALCULATOR.Properties.Resources.resources
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.AssemblyInfo.cs
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.csproj.CopyComplete
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.dll
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\ref\IMEI CALCULATOR.dll
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.pdb
+C:\Users\mehme\source\repos\IMEI CALCULATOR\IMEI CALCULATOR\obj\Debug\net5.0-windows\IMEI CALCULATOR.genruntimeconfig.cache
